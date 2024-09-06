@@ -66,3 +66,13 @@ a{
 img{
     width: 400px;
 }
+
+footer{
+    background-color: #e5383b;
+    height: 25px;
+}
+
+p.rodape{
+    background-color: #e5383b;
+    text-align: center;
+}
