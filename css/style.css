@@ -69,13 +69,19 @@ img{
 
 .materiarb{
     width: 100%;
-    height: 432px;
+    height: 449px;
     align-items: center;
 }
 
 .materiamcl{
     width: 100%;
-    height: 432px;
+    height: 449px;
+    align-items: center;
+}
+
+.materiafr{
+    width: 100%;
+    height: 449px;
     align-items: center;
 }
 
